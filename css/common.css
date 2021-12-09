@@ -1,0 +1,18 @@
+/**
+ * Some common styles used across all pages
+ */
+ 
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgb(216, 187, 187);
+  
+}
+
+a {
+  width: 150px;
+  
+  
+}
